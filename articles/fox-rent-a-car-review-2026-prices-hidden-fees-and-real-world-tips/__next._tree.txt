@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/187z~vz~ufias.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"fox-rent-a-car-review-2026-prices-hidden-fees-and-real-world-tips","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Dx4xPa3YknG5jc0riY0uK"}
+:HL["/_next/static/chunks/0sy8k8c75f9pt.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"fox-rent-a-car-review-2026-prices-hidden-fees-and-real-world-tips","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pNssCAazNSrCXuhhgUTrs"}
