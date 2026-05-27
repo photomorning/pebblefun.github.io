@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://pebblefun.com
+Sitemap: https://pebblefun.com/sitemap.xml
