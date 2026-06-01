@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/02b.1m25~ordm.css","style"]
-:HL["https://shotkit.com/wp-content/uploads/2025/12/Reverse-Image-Search-Instagram-Pictures-Lenso.jpg","image",{"fetchPriority":"high"}]
+:HL["/media/articles/12-grandparent-and-grandchild-photo-poses/01-thumb.avif","image",{"fetchPriority":"high"}]
 :HL["/media/articles/mpb-review-2026-is-it-really-the-best-place-to-buy-used-camera-gear/01-thumb.avif","image",{"fetchPriority":"auto"}]
 :HL["/media/articles/f-secure-antivirus-review-2026-is-it-worth-the-high-cost/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/2025/12/jump-straight-up-photo-pose.jpg","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"iaJ991j4hUMcz72UGKyJS"}
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/famous_photographers_template-landscape-d18559049416020114113b8b2133bc4b-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"X-mhAYsGtY7key0oa0Se9"}
